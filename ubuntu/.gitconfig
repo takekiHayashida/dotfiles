@@ -1,0 +1,50 @@
+[user]
+	name = muratayusuke
+	email = info@muratayusuke.com
+[alias]
+	co = checkout
+	br = branch
+	mg = merge
+	stat = status
+	st = status
+	ds = diff --stat
+	sm = submodule
+	ci = commit
+	cia = commit --amend
+	l = log
+	lo = log --oneline
+	lg = log --graph --pretty=format:'%C(yellow)%h%C(green)%d%Creset %s %Cblue[%ad]%C(bold blue)<%an>%Creset' --abbrev-commit --date=short --branches
+	sc = svn clone -s
+	sd = svn dcommit
+	sr = svn rebase
+	ri2 = rebase -i HEAD~2
+	ri3 = rebase -i HEAD~3
+	ri4 = rebase -i HEAD~4
+	ri5 = rebase -i HEAD~5
+	ri6 = rebase -i HEAD~6
+	dt = difftool
+	mt = mergetool
+[push]
+	default = tracking
+[credential]
+	helper = store
+[color]
+	branch = always
+	diff = always
+	interactive = always
+	status = always
+[diff]
+  tool = p4merge
+[difftool]
+  prompt = false
+[difftool "p4merge"]
+  cmd = p4merge "$LOCAL" "$REMOTE"
+
+[merge]
+    tool = p4merge
+    keepBackup = false
+[mergetool "p4merge"]
+    cmd = p4merge "$BASE" "$LOCAL" "$REMOTE" "$MERGED"
+    keepTemporaries = false
+    trustExitCode = false
+    keepBackup = false
