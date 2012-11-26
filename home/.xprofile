@@ -1,0 +1,2 @@
+xrandr --output VBOX0 --auto --left-of VBOX1
+
