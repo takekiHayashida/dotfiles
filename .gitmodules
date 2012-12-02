@@ -1,0 +1,6 @@
+[submodule "home/.zsh.d"]
+	path = home/.zsh.d
+	url = git@github.com:muratayusuke/dot.zsh.d.git
+[submodule "home/.emacs.d"]
+	path = home/.emacs.d
+	url = git@github.com:muratayusuke/dot.emacs.d.git
