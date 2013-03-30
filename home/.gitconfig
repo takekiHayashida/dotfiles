@@ -48,3 +48,5 @@
     keepTemporaries = false
     trustExitCode = false
     keepBackup = false
+[core]
+	excludesfile = ~/.gitignore
