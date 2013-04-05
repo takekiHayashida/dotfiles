@@ -7,3 +7,4 @@ if [ -f ~/.zsh_local ]; then
   . ~/.zsh_local
 fi
 
+  
