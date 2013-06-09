@@ -4,3 +4,6 @@
 [submodule "home/.emacs.d"]
 	path = home/.emacs.d
 	url = git@github.com:muratayusuke/dot.emacs.d.git
+[submodule "home/.git-extensions"]
+	path = home/.git-extensions
+	url = git@github.com:muratayusuke/git-extensions.git
