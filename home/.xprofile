@@ -1,2 +1,6 @@
+export XMODIFIERS="@im=ibus"
+export GTK_IM_MODULE="ibus"
+export QT_IM_MODULE="xim"
+exec ibus-daemon -dx &
 xrandr --output VBOX0 --auto --left-of VBOX1
 
