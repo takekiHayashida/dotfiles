@@ -50,3 +50,5 @@
     keepBackup = false
 [core]
 	excludesfile = ~/.gitignore
+[github]
+	user = muratayusuke
