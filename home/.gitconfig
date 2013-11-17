@@ -34,19 +34,12 @@
 	interactive = always
 	status = always
 [diff]
-  tool = p4merge
+  tool = meld
 [difftool]
   prompt = false
-[difftool "p4merge"]
-  cmd = p4merge "$LOCAL" "$REMOTE"
 
 [merge]
-    tool = p4merge
-    keepBackup = false
-[mergetool "p4merge"]
-    cmd = p4merge "$BASE" "$LOCAL" "$REMOTE" "$MERGED"
-    keepTemporaries = false
-    trustExitCode = false
+    tool = meld
     keepBackup = false
 [core]
 	excludesfile = ~/.gitignore
