@@ -7,3 +7,6 @@ GTAGS
 .DS_Store
 wget-log
 .cask
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcworkspace/contents.xcworkspacedata
