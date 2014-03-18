@@ -10,3 +10,4 @@ wget-log
 *.xcodeproj/*
 !*.xcodeproj/project.pbxproj
 !*.xcworkspace/contents.xcworkspacedata
+.bundle
