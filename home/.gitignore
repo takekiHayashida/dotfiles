@@ -11,3 +11,4 @@ wget-log
 !*.xcodeproj/project.pbxproj
 !*.xcworkspace/contents.xcworkspacedata
 .bundle
+vendor/bundle
