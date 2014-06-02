@@ -30,6 +30,7 @@ install libxml2 || true
 install libxslt || true
 install boot2docker || true
 install docker || true
+install hub || true
 
 # .dmg
 cask install google-chrome
