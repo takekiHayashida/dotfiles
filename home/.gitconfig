@@ -46,7 +46,3 @@
 	attributesfile = ~/.gitattributes
 [github]
 	user = muratayusuke
-[url "https://github.com/"]
-	insteadOf = git@github.com:
-[url "ssh://git@git.dev.db.rakuten.co.jp"]
-	insteadOf = ssh://git@git.dev.rakuten.com
