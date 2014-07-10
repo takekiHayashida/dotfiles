@@ -12,3 +12,4 @@ wget-log
 !*.xcworkspace/contents.xcworkspacedata
 .bundle
 vendor/bundle
+*.swp
