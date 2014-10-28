@@ -31,6 +31,8 @@ install libxslt || true
 install boot2docker || true
 install docker || true
 install hub || true
+install node || true
+install npm || true
 
 # .dmg
 cask install google-chrome
@@ -38,6 +40,8 @@ cask install virtualbox
 cask install vagrant
 cask install chefdk
 cask install crashlytics
+
+cask install atom
 
 # Remove outdated versions
 cleanup
