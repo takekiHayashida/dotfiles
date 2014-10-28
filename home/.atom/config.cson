@@ -1,4 +1,6 @@
 'global':
   'editor':
     'invisibles': {}
+    'softWrap': true
+    'softWrapAtPreferredLineLength': true
   'core': {}
