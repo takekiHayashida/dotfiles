@@ -43,7 +43,11 @@ brew cask install vagrant
 brew cask install chefdk
 brew cask install crashlytics
 brew cask install atom
+
+# setup android studio
 brew cask install android-studio
+ABSPATH=$(cd "$(dirname "$0")"; pwd)
+ln -s ${ABSPATH}/../home/.AndroidStudioBeta ~/Library/Preferences/AndroidStudioBeta
 
 # Remove outdated versions
 brew cleanup
