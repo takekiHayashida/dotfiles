@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="language-level">
+      <project id="ASTestdroid" values="JDK_1_6" />
+      <project id="ASTestdroid2" values="JDK_1_6" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="ASTestdroid" values="AndroidRunConfigurationType" />
+      <project id="ASTestdroid2" values="AndroidRunConfigurationType" />
+    </group>
+    <group name="module type">
+      <project id="ASTestdroid" values="JAVA_MODULE" />
+      <project id="ASTestdroid2" values="JAVA_MODULE" />
+    </group>
+    <group name="frameworks">
+      <project id="ASTestdroid" values="android-gradle,android,java-gradle" />
+      <project id="ASTestdroid2" values="android-gradle,android,java-gradle" />
+    </group>
+    <group name="file-type">
+      <project id="ASTestdroid" values="Images,IDEA_MODULE,PLAIN_TEXT,JAVA,ARCHIVE,UNKNOWN,ProGuard File,Properties,Groovy,XML,AIDL" />
+      <project id="ASTestdroid2" values="Groovy,JAVA,PLAIN_TEXT,ARCHIVE,XML,IDEA_MODULE,Images,Properties,UNKNOWN,ProGuard File" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="16" />
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ideaapp.started" count="9" />
+      <entry feature="tips.of.the.day.next" count="2" />
+    </counts>
+  </component>
+</application>
+

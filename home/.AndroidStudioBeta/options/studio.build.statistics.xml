@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StudioBuildStatistic">
+    <record utc_ms="1415685557629">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1415685561869">
+      <value key="sync-time" value="138124" />
+    </record>
+    <record utc_ms="1415685898790">
+      <value key="sync-time" value="4931" />
+    </record>
+    <record utc_ms="1415686089226">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1415686107299">
+      <value key="sync-time" value="18140" />
+    </record>
+    <record utc_ms="1415686136328">
+      <value key="sync-time" value="3490" />
+    </record>
+    <record utc_ms="1415686155281">
+      <value key="sync-time" value="3171" />
+    </record>
+    <record utc_ms="1415686177746">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1415686195248">
+      <value key="sync-time" value="17530" />
+    </record>
+    <record utc_ms="1415686464691">
+      <value key="sync-time" value="8389" />
+    </record>
+    <record utc_ms="1415687771771">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1415687772623">
+      <value key="sync-time" value="5799" />
+    </record>
+    <record utc_ms="1415694106077">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1415694553487">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1415697482331">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1415756800498">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1415761548841">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1415770448807">
+      <value key="project-opened" value="gradle" />
+    </record>
+  </component>
+</application>
+
