@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="GeneralSettings">
-    <option name="lastTip" value="11" />
+    <option name="lastTip" value="13" />
     <option name="showTipsOnStartup" value="true" />
     <option name="showOccupiedMemory" value="false" />
     <option name="reopenLastProject" value="true" />
@@ -15,7 +15,7 @@
     <option name="searchInBackground" value="false" />
     <option name="confirmExit" value="false" />
     <option name="confirmOpenNewProject2" value="-1" />
-    <option name="lastProjectLocation" value="$USER_HOME$/projects" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Downloads/code" />
   </component>
 </application>
 

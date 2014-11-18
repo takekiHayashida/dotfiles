@@ -5,6 +5,7 @@
     <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
     <toolWindow group="Find in Path" />
     <toolWindow group="notification.group.id.gradle" />
+    <toolWindow group="Android Session Restarted" />
   </component>
 </application>
 
