@@ -1,2 +1,2 @@
-install: --no-document
-update: --no-document
+install: --no-document --jobs=4
+update: --no-document --jobs=4
