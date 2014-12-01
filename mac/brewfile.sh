@@ -45,6 +45,8 @@ brew cask install crashlytics
 brew cask install atom
 
 # setup android studio
+brew tap caskroom/versions
+brew cask install java7
 brew cask install android-studio
 ABSPATH=$(cd "$(dirname "$0")"; pwd)
 ln -s ${ABSPATH}/../home/.AndroidStudioBeta ~/Library/Preferences/AndroidStudioBeta
