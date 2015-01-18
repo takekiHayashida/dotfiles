@@ -40,6 +40,7 @@ brew install npm || true
 brew cask install google-chrome
 brew cask install virtualbox
 brew cask install karabiner
+brew cask install dropbox
 brew cask install vagrant
 brew cask install chefdk
 brew cask install crashlytics
