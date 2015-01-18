@@ -42,6 +42,7 @@ brew cask install google-japanese-ime
 brew cask install totalspaces
 brew cask install clipmenu
 brew cask install rightzoom
+brew cask install testflight
 brew cask install virtualbox
 brew cask install karabiner
 brew cask install dropbox
