@@ -60,3 +60,8 @@ ln -s ${ABSPATH}/../home/.AndroidStudioBeta ~/Library/Preferences/AndroidStudioB
 
 # Remove outdated versions
 brew cleanup
+
+# setup finder
+defaults write com.apple.finder AppleShowAllFiles TRUE
+killall Finder
+
