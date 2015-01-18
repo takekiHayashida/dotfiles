@@ -38,6 +38,7 @@ brew install npm || true
 
 # .dmg
 brew cask install google-chrome
+brew cask install google-japanese-ime
 brew cask install virtualbox
 brew cask install karabiner
 brew cask install dropbox
