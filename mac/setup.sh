@@ -50,6 +50,7 @@ brew cask install vagrant
 brew cask install chefdk
 brew cask install crashlytics
 brew cask install atom
+brew cask install slack
 
 # setup android studio
 brew tap caskroom/versions
