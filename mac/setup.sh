@@ -63,5 +63,10 @@ brew cleanup
 
 # setup finder
 defaults write com.apple.finder AppleShowAllFiles TRUE
+defaults write NSGlobalDomain AppleShowAllExtensions -bool true
+defaults write com.apple.finder ShowStatusBar -bool true
+defaults write com.apple.finder _FXShowPosixPathInTitle -bool true
+defaults write NSGlobalDomain com.apple.springing.enabled -bool true
+defaults write NSGlobalDomain com.apple.springing.delay -float 0
 killall Finder
 
