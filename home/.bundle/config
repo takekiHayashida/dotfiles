@@ -1,4 +1,4 @@
 ---
 BUNDLE_JOBS: '4'
-BUNDLE_BUILD__NOKOGIRI: --use-system-libraries -- with-xml2-include=/usr/include/libxml2
-  --with-xml2-lib=/usr/lib
+BUNDLE_BUILD__NOKOGIRI: --use-system-libraries --with-xml2-include=/usr/local/include/libxml2
+  --with-xml2-lib=/usr/lib/

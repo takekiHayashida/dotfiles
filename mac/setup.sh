@@ -28,13 +28,15 @@ brew install packer || true
 brew install autoconf || true
 brew install ghc || true
 brew install libyaml || true
-brew install libxml2 || true
-brew install libxslt || true
 brew install boot2docker || true
 brew install docker || true
 brew install hub || true
 brew install node || true
 brew install npm || true
+
+# nokogiri
+brew install libxml2 libxslt
+brew link libxml2 libxslt --force
 
 # .dmg
 brew cask install google-chrome
