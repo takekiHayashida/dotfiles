@@ -33,6 +33,8 @@ brew install docker || true
 brew install hub || true
 brew install node || true
 brew install npm || true
+brew install --cocoa --with-gnutls -srgb emacs
+brew linkapps
 
 # nokogiri
 brew install libxml2 libxslt
