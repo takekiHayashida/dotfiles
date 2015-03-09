@@ -2,11 +2,15 @@
   'editor':
     'softWrap': true
     'fontSize': 10
-    'invisibles': {}
   'exception-reporting':
     'userId': 'd4b9f7b9-6768-4b7a-8c0f-4fbaf2876c61'
   'welcome':
     'showOnStartup': false
   'metrics':
     'userId': 'c7a839f413aa720e98f1ab824d5ea6aa0ce12843'
-  'core': {}
+  'remember-session':
+    'x': 0
+    'y': 23
+    'tabs': ''
+    'selectedTab': ''
+    'path': ''
