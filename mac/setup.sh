@@ -62,7 +62,7 @@ brew tap caskroom/versions
 brew cask install java7
 brew cask install android-studio
 ABSPATH=$(cd "$(dirname "$0")"; pwd)
-ln -s ${ABSPATH}/../home/.AndroidStudioBeta ~/Library/Preferences/AndroidStudioBeta
+ln -s ${ABSPATH}/../home/.AndroidStudio ~/Library/Preferences/AndroidStudio
 
 # Remove outdated versions
 brew cleanup
