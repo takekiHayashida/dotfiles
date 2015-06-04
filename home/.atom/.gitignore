@@ -1,7 +1,9 @@
-storage
-compile-cache
+storage/
+compile-cache/
 dev
 .npm
 .node-gyp
 gist-it.token
+packages/
+.apm
 
