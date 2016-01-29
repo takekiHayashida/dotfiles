@@ -1,9 +1,9 @@
 [submodule "home/.zsh.d"]
 	path = home/.zsh.d
-	url = git@github.com:muratayusuke/dot.zsh.d.git
+	url = git@github.com:takekiHayashida/dot.zsh.d.git
 [submodule "home/.emacs.d"]
 	path = home/.emacs.d
-	url = git@github.com:muratayusuke/dot.emacs.d.git
+	url = git@github.com:takekiHayashida/dot.emacs.d.git
 [submodule "home/.git-extensions"]
 	path = home/.git-extensions
-	url = git@github.com:muratayusuke/git-extensions.git
+	url = git@github.com:takekiHayashida/git-extensions.git
