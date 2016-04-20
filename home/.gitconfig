@@ -1,6 +1,6 @@
 [user]
-	name = muratayusuke
-	email = info@muratayusuke.com
+	name = takekiHayashida
+	email = hayashida096@gmail.com
 [alias]
 	co = checkout
 	br = branch
@@ -45,4 +45,4 @@
 	excludesfile = ~/.gitignore
 	attributesfile = ~/.gitattributes
 [github]
-	user = muratayusuke
+	user = takekiHayashida
