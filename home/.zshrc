@@ -7,5 +7,8 @@ if [ -f ~/.zsh_local ]; then
   . ~/.zsh_local
 fi
 
+alias kuromu='google-chrome --disable-gpu'
+alias rezsh='exec $SHELL -l'
+
 ### Added by the Heroku Toolbelt
 export PATH="/usr/local/heroku/bin:$PATH"
