@@ -9,5 +9,6 @@ fi
 
 alias kuromu='google-chrome --disable-gpu'
 alias rezsh='exec $SHELL -l'
+alias atm='atom --disable-gpu'
 
 unset GREP_OPTIONS
