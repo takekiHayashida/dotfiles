@@ -11,4 +11,3 @@ alias kuromu='google-chrome --disable-gpu'
 alias rezsh='exec $SHELL -l'
 
 unset GREP_OPTIONS
-declare GREP_OPTIONS="-n --color"
